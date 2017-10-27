@@ -2,12 +2,12 @@
 A simple animation to display the message "In Bitcoin We Trust" using the p5 Js Library.
 ---------------------------------------------------------------------------------------------------
 
-██╗███╗   ██╗    ██████╗ ██╗████████╗ ██████╗ ██████╗ ██╗███╗   ██╗        
-██║████╗  ██║    ██╔══██╗██║╚══██╔══╝██╔════╝██╔═══██╗██║████╗  ██║        
-██║██╔██╗ ██║    ██████╔╝██║   ██║   ██║     ██║   ██║██║██╔██╗ ██║        
-██║██║╚██╗██║    ██╔══██╗██║   ██║   ██║     ██║   ██║██║██║╚██╗██║        
-██║██║ ╚████║    ██████╔╝██║   ██║   ╚██████╗╚██████╔╝██║██║ ╚████║        
-╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝        
+  ██╗███╗   ██╗      ██████╗ ██╗████████╗ ██████╗ ██████╗ ██╗███╗   ██╗        
+  ██║████╗  ██║      ██╔══██╗██║╚══██╔══╝██╔════╝██╔═══██╗██║████╗  ██║        
+  ██║██╔██╗ ██║      ██████╔╝██║   ██║   ██║     ██║   ██║██║██╔██╗ ██║        
+  ██║██║╚██╗██║      ██╔══██╗██║   ██║   ██║     ██║   ██║██║██║╚██╗██║        
+  ██║██║ ╚████║      ██████╔╝██║   ██║   ╚██████╗╚██████╔╝██║██║ ╚████║        
+  ╚═╝╚═╝  ╚═══╝      ╚═════╝ ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝        
                                                                            
                     ██╗    ██╗███████╗                                     
                     ██║    ██║██╔════╝                                     
@@ -24,10 +24,10 @@ A simple animation to display the message "In Bitcoin We Trust" using the p5 Js 
                                    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
                                                                            
 - Commands:
- - <S> stop the animation by pressing the **'S'** key.
- - <C> continue the animation by pressing the **'C'** key.
- - <R> reset the animation by pressing the **'R'** key.
+ - <S> stop the animation by pressing the **S** key.
+ - <C> continue the animation by pressing the **C** key.
+ - <R> reset the animation by pressing the **R** key.
   
----- My Address: 16UbaGE2oS8iGegLgYdPUmcURmekUL9nE9 ----
+- My Address: 16UbaGE2oS8iGegLgYdPUmcURmekUL9nE9
 
 - A Creative Commons (CC) license.
