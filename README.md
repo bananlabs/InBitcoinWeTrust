@@ -28,11 +28,11 @@ A simple animation to display the message "In Bitcoin We Trust" using the p5 Js 
 
 
 
-- Commands:
-        - <S> stop the animation by pressing the **S** key
-        - <C> continue the animation by pressing the **C** key
-        - <R> reset the animation by pressing the **R** key
-  
-        My Address: 16UbaGE2oS8iGegLgYdPUmcURmekUL9nE9
-        
+Commands: 
++ stop the animation by pressing the S key 
++ continue the animation by pressing the C key 
++ reset the animation by pressing the R key
+
+-- My Address: 16UbaGE2oS8iGegLgYdPUmcURmekUL9nE9
+
 A Creative Commons (CC) license.
