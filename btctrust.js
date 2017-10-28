@@ -78,7 +78,7 @@ function draw(){
 	displayMessage(); // call the function to display the message
 	
 		// display the bitcoin silver pixel image
-		if(millis() - startTime < 11000){ // while the time is less than 10 seconds, display the image
+		if(millis() - startTime < 11500){ // while the time is less than 11.5 seconds, display the image
 			// fade effect
 			if(transparency < 255){ 
 				transparency += 0.5;
